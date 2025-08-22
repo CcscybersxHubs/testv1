@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\testv1\testv1\bin\Debug\testv1.exe.config
+C:\Users\ACT-STUDENT\Desktop\testv1\testv1\bin\Debug\testv1.exe
+C:\Users\ACT-STUDENT\Desktop\testv1\testv1\bin\Debug\testv1.pdb
+C:\Users\ACT-STUDENT\Desktop\testv1\testv1\obj\Debug\testv1.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\testv1\testv1\obj\Debug\testv1.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\testv1\testv1\obj\Debug\testv1.exe
+C:\Users\ACT-STUDENT\Desktop\testv1\testv1\obj\Debug\testv1.pdb
